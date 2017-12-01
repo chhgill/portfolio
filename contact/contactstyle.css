@@ -1,0 +1,55 @@
+* {
+  font-family: 'Josefin Sans', sans-serif;
+  background-color: hsla(40, 50%, 97%, 1);
+}
+
+img {
+  padding: 0.25vw;
+}
+
+#content {
+  text-align: center;
+  margin-top: 30vh;
+}
+
+#header {
+  font-size: 2.2rem;
+  letter-spacing: 0.1rem;
+  padding: 2.4%;
+}
+
+#info {
+  margin-top: 3vh;
+}
+
+#email {
+  padding-top: 5vh;
+  padding-left: 10vw;
+  padding-right: 10vw;
+  display: inline-block;
+  max-width: 33rem;
+}
+
+#homenav{
+  padding: 2.5vh;
+}
+
+#work {
+  display: inline;
+  padding: 0.75vw;
+}
+
+#home {
+  display: inline;
+  padding: 0.75vw;
+}
+
+#about {
+  display: inline;
+  padding: 0.75vw;
+}
+
+#image {
+  padding: 8vh;
+  display: block;
+}
